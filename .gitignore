@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+**/build/
+.kotlin/
+
+# Android Studio
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+*.iml
+local.properties
+
+# Android build outputs
+captures/
+*.apk
+*.aab
+*.ap_
+
+# Signing credentials
+*.jks
+*.keystore
+
+# macOS
+.DS_Store
